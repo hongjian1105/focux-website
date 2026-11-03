@@ -150,3 +150,28 @@ img{height:auto}
 .featured-ip-grid .ip-bruce .ip-image{background:#e9e9e7}
 .featured-ip-grid .ip-bruce .ip-image>img{object-fit:cover;object-position:center 44%;padding:0}
 @media(max-width:760px){.featured-ip-grid .ip-bruce .ip-image>img{object-position:35% center;padding:0}}
+
+/* FOCUX icon family: a shared 24-unit grid and restrained, consistent strokes. */
+.icon-definitions{position:absolute;width:0;height:0;overflow:hidden;pointer-events:none}
+.ui-icon{display:inline-block;width:22px;height:22px;flex:0 0 auto;fill:none;stroke:currentColor;stroke-width:1.55;stroke-linecap:round;stroke-linejoin:round;vertical-align:middle;overflow:visible}
+.pillar-top{display:flex;align-items:center;gap:14px;min-height:44px}
+.pillar-top small{font-size:9px;line-height:1.7;letter-spacing:.5px;color:#626e7d}
+.pillar-symbol{width:44px;height:44px;background:#f0f3fa;display:grid;place-items:center;color:#2251f5;flex:0 0 auto}
+.pillar-symbol>.ui-icon{width:27px;height:27px}
+.pillars h2{margin-top:18px}.pillars>a:hover .pillar-symbol{background:#2251f5;color:white;transition:background .2s,color .2s}
+.icon-eyebrow{display:flex;align-items:center;gap:9px}
+.icon-eyebrow>.ui-icon{width:20px;height:20px;color:#2251f5}
+.process>.process-step{display:flex;align-items:center;gap:12px}
+.process-step>.ui-icon{width:27px;height:27px;color:#2251f5}
+.process-step>span{display:grid;gap:5px}.process-step>span>i{font-size:9px;font-style:normal;line-height:1;color:#626e7d;margin:0}.process-step strong{font-size:12px;font-weight:500;line-height:1.6}
+.film-types>span{display:inline-flex;align-items:center;gap:8px}
+.film-types>span>.ui-icon{color:#2251f5;width:21px;height:21px}
+.capability-icon{color:#2251f5;margin-bottom:20px}.capability-icon>.ui-icon{width:32px;height:32px}
+.cooperate-links>a{display:inline-flex;align-items:center;gap:8px}.cooperate-links>a>.ui-icon{width:17px;height:17px;color:#2251f5}
+.menu-toggle>.ui-icon{width:19px;height:19px}.dialog-close,.lightbox-close{display:grid;place-items:center}.dialog-close>.ui-icon,.lightbox-close>.ui-icon{width:19px;height:19px}
+.icon-label{display:flex;align-items:center;gap:9px}.icon-label>.ui-icon{width:20px;height:20px;color:#2251f5}
+.ip-image>b>.ui-icon,.gallery-picture>b>.ui-icon,.poster>div>b>.ui-icon{width:16px;height:16px}
+.stage-caption b>.ui-icon{width:21px;height:21px}.column-link>span>.ui-icon,.line-link>span>.ui-icon{width:19px;height:19px}
+@media(max-width:1100px){.pillar-top{gap:11px}.pillar-top small{font-size:8px;letter-spacing:0}.pillar-symbol{width:39px;height:39px}.process-step strong{font-size:11px}.process>.process-step{gap:9px}}
+@media(max-width:760px){.pillar-top{min-height:34px;gap:0}.pillar-top small{display:none}.pillar-symbol{width:34px;height:34px}.pillar-symbol>.ui-icon{width:23px;height:23px}.pillars h2{margin-top:13px}.icon-eyebrow{gap:7px}.icon-eyebrow>.ui-icon{width:17px;height:17px}.process>.process-step{gap:9px}.process-step>.ui-icon{width:23px;height:23px}.process-step strong{font-size:11px}.process-step>span>i{font-size:8px}.film-types>span{gap:6px;font-size:10px}.film-types>span>.ui-icon{width:17px;height:17px}.capability-icon{margin-bottom:17px}.capability-icon>.ui-icon{width:28px;height:28px}.cooperate-links>a{gap:6px}.cooperate-links>a>.ui-icon{width:15px;height:15px}.icon-label>.ui-icon{width:18px;height:18px}}
+@media(max-width:370px){.film-types>span{font-size:9px;gap:4px}.film-types>span>.ui-icon{width:16px;height:16px}.process-step strong{font-size:10px}}
