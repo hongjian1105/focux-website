@@ -137,42 +137,48 @@ const ipGalleries = [
     "brand": "stan",
     "title": "人物影像",
     "kind": "人物资料",
-    "src": "assets/gallery/stan-s27-image35.webp"
+    "src": "assets/gallery/stan-s27-image35.webp",
+    "category": "culture"
   },
   {
     "id": "stan-s5-image7",
     "brand": "stan",
     "title": "漫画创作手稿",
     "kind": "创作资料",
-    "src": "assets/gallery/stan-s5-image7.webp"
+    "src": "assets/gallery/stan-s5-image7.webp",
+    "category": "culture"
   },
   {
     "id": "stan-s45-image106",
     "brand": "stan",
     "title": "人物视觉创作",
     "kind": "视觉设计示例",
-    "src": "assets/gallery/stan-s45-image106.webp"
+    "src": "assets/gallery/stan-s45-image106.webp",
+    "category": "culture"
   },
   {
     "id": "stan-s46-image110",
     "brand": "stan",
     "title": "角色收藏设计",
     "kind": "衍生设计示例",
-    "src": "assets/gallery/stan-s46-image110.webp"
+    "src": "assets/gallery/stan-s46-image110.webp",
+    "category": "product"
   },
   {
     "id": "stan-s49-image112",
     "brand": "stan",
     "title": "服饰视觉表达",
     "kind": "衍生设计示例",
-    "src": "assets/gallery/stan-s49-image112.webp"
+    "src": "assets/gallery/stan-s49-image112.webp",
+    "category": "product"
   },
   {
     "id": "stan-s57-image150",
     "brand": "stan",
     "title": "The Stan Lee Story",
     "kind": "出版物资料",
-    "src": "assets/gallery/stan-s57-image150.webp"
+    "src": "assets/gallery/stan-s57-image150.webp",
+    "category": "product"
   },
   {
     "id": "molang-home",
@@ -262,5 +268,144 @@ const ipGalleries = [
         "title": "组装后的成品"
       }
     ]
+  },
+  {
+    "id": "culture-bruce-0",
+    "brand": "culture-bruce",
+    "title": "力量之外，思想长存。",
+    "kind": "李小龙 · 文化与创作档案",
+    "src": "assets/editorial/bruce-reading.webp",
+    "category": "culture"
+  },
+  {
+    "id": "culture-bruce-1",
+    "brand": "culture-bruce",
+    "title": "生活中的李小龙",
+    "kind": "李小龙 · 文化与创作档案",
+    "src": "assets/editorial/bruce-life.webp",
+    "category": "culture"
+  },
+  {
+    "id": "culture-bruce-2",
+    "brand": "culture-bruce",
+    "title": "师承与成长",
+    "kind": "李小龙 · 文化与创作档案",
+    "src": "assets/editorial/bruce-ipman.webp",
+    "category": "culture"
+  },
+  {
+    "id": "culture-bruce-3",
+    "brand": "culture-bruce",
+    "title": "教学与武术探索",
+    "kind": "李小龙 · 文化与创作档案",
+    "src": "assets/editorial/bruce-school.webp",
+    "category": "culture"
+  },
+  {
+    "id": "culture-bruce-4",
+    "brand": "culture-bruce",
+    "title": "武术著述",
+    "kind": "李小龙 · 文化与创作档案",
+    "src": "assets/editorial/bruce-book.webp",
+    "category": "culture"
+  },
+  {
+    "id": "culture-bruce-5",
+    "brand": "culture-bruce",
+    "title": "手写诗作与思考",
+    "kind": "李小龙 · 文化与创作档案",
+    "src": "assets/editorial/bruce-poetry.webp",
+    "category": "culture"
+  },
+  {
+    "id": "culture-jewel-0",
+    "brand": "culture-jewel",
+    "title": "从真实的灵感，到英雄的想象。",
+    "kind": "Jewel · 文化与创作档案",
+    "src": "assets/editorial/jewel-unveiling.webp",
+    "category": "culture"
+  },
+  {
+    "id": "culture-jewel-1",
+    "brand": "culture-jewel",
+    "title": "Stan Lee 与 G.E.M. 的相遇",
+    "kind": "Jewel · 文化与创作档案",
+    "src": "assets/editorial/jewel-origin.webp",
+    "category": "culture"
+  },
+  {
+    "id": "culture-jewel-2",
+    "brand": "culture-jewel",
+    "title": "Jewel 原始角色形象",
+    "kind": "Jewel · 文化与创作档案",
+    "src": "assets/jewel.webp",
+    "category": "culture"
+  },
+  {
+    "id": "culture-stan-0",
+    "brand": "culture-stan",
+    "title": "每个英雄背后，都有想象的起点。",
+    "kind": "Stan Lee · 文化与创作档案",
+    "src": "assets/editorial/stan-working.webp",
+    "category": "culture"
+  },
+  {
+    "id": "culture-stan-1",
+    "brand": "culture-stan",
+    "title": "与观众分享创作热情",
+    "kind": "Stan Lee · 文化与创作档案",
+    "src": "assets/editorial/stan-stage.webp",
+    "category": "culture"
+  },
+  {
+    "id": "culture-stan-2",
+    "brand": "culture-stan",
+    "title": "漫画分镜与手写笔记",
+    "kind": "Stan Lee · 文化与创作档案",
+    "src": "assets/gallery/stan-s5-image7.webp",
+    "category": "culture"
+  },
+  {
+    "id": "culture-stan-3",
+    "brand": "culture-stan",
+    "title": "故事与创作的记录",
+    "kind": "Stan Lee · 文化与创作档案",
+    "src": "assets/gallery/stan-s57-image150.webp",
+    "category": "culture"
+  },
+  {
+    "id": "art-A01",
+    "brand": "art-selection",
+    "title": "艺术之境",
+    "kind": "艺术与展陈视觉选集",
+    "src": "assets/editorial/art-gallery.webp"
+  },
+  {
+    "id": "art-A02",
+    "brand": "art-selection",
+    "title": "形态与空间",
+    "kind": "艺术与展陈视觉选集",
+    "src": "assets/editorial/art-sculpture.webp"
+  },
+  {
+    "id": "art-B01",
+    "brand": "art-selection",
+    "title": "作品与空间的对话",
+    "kind": "艺术与展陈视觉选集",
+    "src": "assets/editorial/art-exhibition.webp"
+  },
+  {
+    "id": "art-B02",
+    "brand": "art-selection",
+    "title": "色彩、形态与想象",
+    "kind": "艺术与展陈视觉选集",
+    "src": "assets/editorial/art-flowers.webp"
+  },
+  {
+    "id": "art-C02",
+    "brand": "art-selection",
+    "title": "光影之间",
+    "kind": "艺术与展陈视觉选集",
+    "src": "assets/editorial/art-digital.webp"
   }
 ];
