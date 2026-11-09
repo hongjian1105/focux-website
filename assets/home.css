@@ -269,3 +269,34 @@ header nav{gap:20px;font-size:12px}.pillars{grid-template-columns:repeat(4,minma
 
 
 @media(max-width:760px){.art-section .section-head,.art-colour-section .section-head,.home-art-preview .section-head,.culture-section>.section-head{display:block}.art-section .section-intro,.art-colour-section .section-intro,.culture-section>.section-head .section-intro{margin-top:18px;max-width:none;font-size:12px}.home-art-preview .section-head>.plain-link{display:inline-block;margin-top:20px}.art-cover img{object-position:35% center}}
+/* Shared language control; separate static language pages preserve direct links. */
+.language-switch{display:flex;align-items:center;gap:7px;flex:0 0 auto;font-size:11px;white-space:nowrap}.language-switch i{font-style:normal;color:#a4acb8}.language-switch>span{color:#2251f5}.language-switch>a{padding:10px 2px}.language-switch>a:hover{color:#2251f5}.language-switch>a:focus-visible{outline:2px solid #2251f5;outline-offset:4px}
+header{gap:22px}header nav{gap:17px}.contact-link{white-space:nowrap}
+html[lang="en"] h1,html[lang="en"] h2,html[lang="en"] h3,html[lang="en"] h4{letter-spacing:-.035em;overflow-wrap:break-word}
+html[lang="en"] .hero-title>h1{font-size:clamp(38px,4.2vw,64px);line-height:1.13;max-width:850px}
+html[lang="en"] .hero-description{max-width:280px}html[lang="en"] .hero-description p{font-size:12px}
+html[lang="en"] header nav{font-size:11px;gap:18px}html[lang="en"] .contact-link{font-size:11px}
+html[lang="en"] .pillars h2{font-size:21px;line-height:1.3;min-height:54px}html[lang="en"] .pillars p{font-size:11px}
+html[lang="en"] .section-head h2{font-size:clamp(28px,3.1vw,43px);line-height:1.2}html[lang="en"] .section-intro{max-width:330px;font-size:12px}
+html[lang="en"] .ip-slide-copy>h1,html[lang="en"] .ip-slide-copy>h2{font-size:clamp(29px,3.1vw,44px);line-height:1.17}
+html[lang="en"] .ip-slide-description{line-height:1.75;font-size:12px}html[lang="en"] .ip-slide-cta{margin-top:17px}
+html[lang="en"] .culture-feature-copy h4{font-size:26px;line-height:1.25}html[lang="en"] .culture-feature-copy>p{font-size:12px;line-height:1.8}html[lang="en"] .culture-feature-copy{padding:32px}html[lang="en"] .culture-feature-image>img{height:500px}
+html[lang="en"] .culture-story-head h3{font-size:36px}html[lang="en"] .culture-timeline p{font-size:11px}html[lang="en"] .gallery-title{line-height:1.6}
+html[lang="en"] .inner-intro h1{font-size:clamp(42px,4.5vw,65px);line-height:1.13}html[lang="en"] .intro-bottom>p{max-width:650px}
+html[lang="en"] .detail-copy h2{font-size:27px}html[lang="en"] .detail-copy>p:not(.eyebrow){font-size:12px;line-height:1.85}html[lang="en"] .detail-culture>p:not(.eyebrow){line-height:1.85}html[lang="en"] .authorization-grid small{font-size:10px}
+html[lang="en"] .about-copy>h3{font-size:20px;line-height:1.5}html[lang="en"] .footer-top p{max-width:550px;font-size:11px;line-height:1.8}
+html[lang="en"] .art-heading h1{font-size:clamp(42px,4.5vw,65px);line-height:1.15}html[lang="en"] .art-index a{font-size:11px}
+html[lang="en"] .business-copy h3{font-size:36px;line-height:1.2}html[lang="en"] .process-step strong{font-size:10px;line-height:1.6}
+@media(min-width:1001px) and (max-width:1200px){html[lang="en"] header nav{gap:12px;font-size:10px}html[lang="en"] header{gap:14px}html[lang="en"] .contact-link{display:none}}
+@media(max-width:1000px){header{gap:14px}.language-switch{margin-left:0}.contact-link{display:none}html[lang="en"] .menu-toggle{font-size:11px}html[lang="en"] header nav{gap:0;font-size:13px}html[lang="en"] .hero-description{max-width:none}}
+@media(max-width:760px){.language-switch{font-size:10px;gap:6px}header{gap:12px}.identity img{max-width:110px}.menu-toggle{margin-left:auto}.identity{margin-right:auto}
+html[lang="en"] .hero-title>h1{font-size:36px;line-height:1.16;max-width:none}html[lang="en"] .hero-description{max-width:none}html[lang="en"] .hero-description p{font-size:11px}html[lang="en"] .pillars h2{font-size:18px;min-height:46px}html[lang="en"] .pillars p{font-size:10px}
+html[lang="en"] .section-head{display:block}html[lang="en"] .section-head .section-intro{margin-top:17px;max-width:none;font-size:11px}html[lang="en"] .section-head>.plain-link{display:inline-block;margin-top:18px}html[lang="en"] .section-head h2{font-size:28px;line-height:1.25}
+html[lang="en"] .ip-carousel-stage{height:610px}html[lang="en"] .ip-slide{grid-template-rows:300px 310px}html[lang="en"] .ip-slide-copy{padding:22px}html[lang="en"] .ip-slide-copy>h1,html[lang="en"] .ip-slide-copy>h2{font-size:32px;line-height:1.15;margin:15px 0}html[lang="en"] .ip-slide-description{font-size:11px;line-height:1.7}html[lang="en"] .ip-slide-cta{margin-top:10px}html[lang="en"] .chapter-jumps{gap:9px;font-size:9px}
+html[lang="en"] .culture-story-head{display:block}html[lang="en"] .culture-story-head .plain-link{display:inline-flex;margin-top:18px}html[lang="en"] .culture-story-head h3{font-size:29px}html[lang="en"] .culture-feature-copy{padding:25px 22px}html[lang="en"] .culture-feature-copy h4{font-size:24px}html[lang="en"] .culture-feature-copy>p{font-size:12px}html[lang="en"] .culture-feature-image>img{height:300px}
+html[lang="en"] .inner-intro h1{font-size:38px;line-height:1.15}html[lang="en"] .intro-bottom>p{font-size:11px}html[lang="en"] .brand-gallery-heading{display:block}html[lang="en"] .brand-gallery-heading .plain-link{display:inline-block;margin-top:15px}html[lang="en"] .brand-gallery-heading h3{font-size:25px;line-height:1.3}
+html[lang="en"] .footer-nav{gap:15px;font-size:10px}html[lang="en"] .footer-top p{max-width:220px;font-size:9px}html[lang="en"] .art-heading h1{font-size:38px}html[lang="en"] .art-index{gap:14px;align-items:start}html[lang="en"] .art-index a{font-size:9px;line-height:1.7;max-width:30%}html[lang="en"] .art-quiet-copy>h3{font-size:27px}html[lang="en"] .business-copy h3{font-size:32px}
+html[lang="en"] .detail-culture>h4{font-size:22px}html[lang="en"] .set-finished-copy>h3{font-size:25px}html[lang="en"] .set-finished-copy>p:not(.eyebrow){font-size:12px}html[lang="en"] .set-parts-heading{display:block}html[lang="en"] .set-parts-heading>span{display:block;margin-top:10px}html[lang="en"] .set-composition span{font-size:10px;line-height:1.7}
+}
+@media(max-width:370px){html[lang="en"] .hero-title>h1{font-size:31px}html[lang="en"] .ip-slide-copy>h1,html[lang="en"] .ip-slide-copy>h2{font-size:29px}html[lang="en"] .ip-carousel-stage{height:600px}html[lang="en"] .ip-slide{grid-template-rows:320px 280px}html[lang="en"] .art-heading h1{font-size:33px}.language-switch{gap:5px}}
+
