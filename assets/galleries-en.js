@@ -4,84 +4,96 @@ const ipGalleries = [
     "brand": "jewel",
     "title": "Power Bank Collection",
     "kind": "Product design showcase",
-    "src": "../assets/gallery/jewel-13.webp"
+    "src": "../assets/gallery/jewel-13.webp",
+    "pricePending": true
   },
   {
     "id": "jewel-14",
     "brand": "jewel",
     "title": "Open-Ear Earbuds",
     "kind": "Product design showcase",
-    "src": "../assets/gallery/jewel-14.webp"
+    "src": "../assets/gallery/jewel-14.webp",
+    "pricePending": true
   },
   {
     "id": "jewel-15",
     "brand": "jewel",
     "title": "Interchangeable-Face Earbud Design",
     "kind": "Product design showcase",
-    "src": "../assets/gallery/jewel-15.webp"
+    "src": "../assets/gallery/jewel-15.webp",
+    "pricePending": true
   },
   {
     "id": "jewel-17",
     "brand": "jewel",
     "title": "Gaming Chair",
     "kind": "Product design showcase",
-    "src": "../assets/gallery/jewel-17.webp"
+    "src": "../assets/gallery/jewel-17.webp",
+    "pricePending": true
   },
   {
     "id": "jewel-18",
     "brand": "jewel",
     "title": "Over-Ear Headphones",
     "kind": "Product design showcase",
-    "src": "../assets/gallery/jewel-18.webp"
+    "src": "../assets/gallery/jewel-18.webp",
+    "pricePending": true
   },
   {
     "id": "jewel-19",
     "brand": "jewel",
     "title": "Gaming Keyboard",
     "kind": "Product design showcase",
-    "src": "../assets/gallery/jewel-19.webp"
+    "src": "../assets/gallery/jewel-19.webp",
+    "pricePending": true
   },
   {
     "id": "jewel-21",
     "brand": "jewel",
     "title": "Phone Case",
     "kind": "Product design showcase",
-    "src": "../assets/gallery/jewel-21.webp"
+    "src": "../assets/gallery/jewel-21.webp",
+    "pricePending": true
   },
   {
     "id": "jewel-23",
     "brand": "jewel",
     "title": "Portable Fan",
     "kind": "Product design showcase",
-    "src": "../assets/gallery/jewel-23.webp"
+    "src": "../assets/gallery/jewel-23.webp",
+    "pricePending": true
   },
   {
     "id": "jewel-25",
     "brand": "jewel",
     "title": "Character Collectibles",
     "kind": "Product design showcase",
-    "src": "../assets/gallery/jewel-25.webp"
+    "src": "../assets/gallery/jewel-25.webp",
+    "pricePending": true
   },
   {
     "id": "jewel-30",
     "brand": "jewel",
     "title": "Themed Headwear",
     "kind": "Product design showcase",
-    "src": "../assets/gallery/jewel-30.webp"
+    "src": "../assets/gallery/jewel-30.webp",
+    "pricePending": true
   },
   {
     "id": "jewel-31",
     "brand": "jewel",
     "title": "Themed Umbrella",
     "kind": "Product design showcase",
-    "src": "../assets/gallery/jewel-31.webp"
+    "src": "../assets/gallery/jewel-31.webp",
+    "pricePending": true
   },
   {
     "id": "jewel-35",
     "brand": "jewel",
     "title": "Travel Tumbler",
     "kind": "Product design showcase",
-    "src": "../assets/gallery/jewel-35.webp"
+    "src": "../assets/gallery/jewel-35.webp",
+    "pricePending": true
   },
   {
     "id": "bruce-s3-image10",
@@ -95,9 +107,10 @@ const ipGalleries = [
   {
     "id": "bruce-s4-image16",
     "brand": "bruce",
-    "title": "BRUCE LEE-PC01 · Power Bank",
+    "title": "BRUCE LEE-PC01 · Power Bank (Cup Gift Set)",
     "kind": "Product showcase",
-    "src": "../assets/gallery/bruce-s4-image16.webp"
+    "src": "../assets/gallery/bruce-s4-image16.webp",
+    "pricePending": true
   },
   {
     "id": "bruce-s7-image27",
@@ -111,9 +124,10 @@ const ipGalleries = [
   {
     "id": "bruce-s8-image32",
     "brand": "bruce",
-    "title": "BRUCE LEE-PC02 · Magnetic Power Bank",
+    "title": "BRUCE LEE-PC02 · Magnetic Power Bank (Eyewear Gift Set)",
     "kind": "Product showcase",
-    "src": "../assets/gallery/bruce-s8-image32.webp"
+    "src": "../assets/gallery/bruce-s8-image32.webp",
+    "pricePending": true
   },
   {
     "id": "bruce-s14-image52",
@@ -174,7 +188,8 @@ const ipGalleries = [
     "title": "Character Collectible Design",
     "kind": "Creative design concept",
     "src": "../assets/gallery/stan-s46-image110.webp",
-    "category": "product"
+    "category": "product",
+    "pricePending": true
   },
   {
     "id": "stan-s49-image112",
@@ -182,7 +197,8 @@ const ipGalleries = [
     "title": "Apparel Graphics",
     "kind": "Creative design concept",
     "src": "../assets/gallery/stan-s49-image112.webp",
-    "category": "product"
+    "category": "product",
+    "pricePending": true
   },
   {
     "id": "stan-s57-image150",
@@ -190,7 +206,8 @@ const ipGalleries = [
     "title": "The Stan Lee Story",
     "kind": "Publication reference",
     "src": "../assets/gallery/stan-s57-image150.webp",
-    "category": "product"
+    "category": "product",
+    "pricePending": true
   },
   {
     "id": "molang-home",
@@ -279,7 +296,8 @@ const ipGalleries = [
         "src": "../assets/gallery/avengers-set-assembled.webp",
         "title": "Assembled Design"
       }
-    ]
+    ],
+    "pricePending": true
   },
   {
     "id": "culture-bruce-0",

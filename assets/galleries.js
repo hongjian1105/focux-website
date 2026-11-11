@@ -4,84 +4,96 @@ const ipGalleries = [
     "brand": "jewel",
     "title": "充电宝系列",
     "kind": "产品设计展示",
-    "src": "assets/gallery/jewel-13.webp"
+    "src": "assets/gallery/jewel-13.webp",
+    "pricePending": true
   },
   {
     "id": "jewel-14",
     "brand": "jewel",
     "title": "开放式耳机",
     "kind": "产品设计展示",
-    "src": "assets/gallery/jewel-14.webp"
+    "src": "assets/gallery/jewel-14.webp",
+    "pricePending": true
   },
   {
     "id": "jewel-15",
     "brand": "jewel",
     "title": "换脸耳机设计",
     "kind": "产品设计展示",
-    "src": "assets/gallery/jewel-15.webp"
+    "src": "assets/gallery/jewel-15.webp",
+    "pricePending": true
   },
   {
     "id": "jewel-17",
     "brand": "jewel",
     "title": "电竞座椅",
     "kind": "产品设计展示",
-    "src": "assets/gallery/jewel-17.webp"
+    "src": "assets/gallery/jewel-17.webp",
+    "pricePending": true
   },
   {
     "id": "jewel-18",
     "brand": "jewel",
     "title": "头戴耳机",
     "kind": "产品设计展示",
-    "src": "assets/gallery/jewel-18.webp"
+    "src": "assets/gallery/jewel-18.webp",
+    "pricePending": true
   },
   {
     "id": "jewel-19",
     "brand": "jewel",
     "title": "电竞键盘",
     "kind": "产品设计展示",
-    "src": "assets/gallery/jewel-19.webp"
+    "src": "assets/gallery/jewel-19.webp",
+    "pricePending": true
   },
   {
     "id": "jewel-21",
     "brand": "jewel",
     "title": "手机保护壳",
     "kind": "产品设计展示",
-    "src": "assets/gallery/jewel-21.webp"
+    "src": "assets/gallery/jewel-21.webp",
+    "pricePending": true
   },
   {
     "id": "jewel-23",
     "brand": "jewel",
     "title": "随身风扇",
     "kind": "产品设计展示",
-    "src": "assets/gallery/jewel-23.webp"
+    "src": "assets/gallery/jewel-23.webp",
+    "pricePending": true
   },
   {
     "id": "jewel-25",
     "brand": "jewel",
     "title": "角色收藏系列",
     "kind": "产品设计展示",
-    "src": "assets/gallery/jewel-25.webp"
+    "src": "assets/gallery/jewel-25.webp",
+    "pricePending": true
   },
   {
     "id": "jewel-30",
     "brand": "jewel",
     "title": "潮流帽饰",
     "kind": "产品设计展示",
-    "src": "assets/gallery/jewel-30.webp"
+    "src": "assets/gallery/jewel-30.webp",
+    "pricePending": true
   },
   {
     "id": "jewel-31",
     "brand": "jewel",
     "title": "主题雨伞",
     "kind": "产品设计展示",
-    "src": "assets/gallery/jewel-31.webp"
+    "src": "assets/gallery/jewel-31.webp",
+    "pricePending": true
   },
   {
     "id": "jewel-35",
     "brand": "jewel",
     "title": "随行水杯",
     "kind": "产品设计展示",
-    "src": "assets/gallery/jewel-35.webp"
+    "src": "assets/gallery/jewel-35.webp",
+    "pricePending": true
   },
   {
     "id": "bruce-s3-image10",
@@ -95,9 +107,10 @@ const ipGalleries = [
   {
     "id": "bruce-s4-image16",
     "brand": "bruce",
-    "title": "BRUCE LEE-PC01 · 充电宝",
+    "title": "BRUCE LEE-PC01 · 充电宝（水杯礼盒）",
     "kind": "产品展示",
-    "src": "assets/gallery/bruce-s4-image16.webp"
+    "src": "assets/gallery/bruce-s4-image16.webp",
+    "pricePending": true
   },
   {
     "id": "bruce-s7-image27",
@@ -111,9 +124,10 @@ const ipGalleries = [
   {
     "id": "bruce-s8-image32",
     "brand": "bruce",
-    "title": "BRUCE LEE-PC02 · 磁吸充电宝",
+    "title": "BRUCE LEE-PC02 · 磁吸充电宝（眼镜礼盒）",
     "kind": "产品展示",
-    "src": "assets/gallery/bruce-s8-image32.webp"
+    "src": "assets/gallery/bruce-s8-image32.webp",
+    "pricePending": true
   },
   {
     "id": "bruce-s14-image52",
@@ -174,7 +188,8 @@ const ipGalleries = [
     "title": "角色收藏设计",
     "kind": "衍生设计示例",
     "src": "assets/gallery/stan-s46-image110.webp",
-    "category": "product"
+    "category": "product",
+    "pricePending": true
   },
   {
     "id": "stan-s49-image112",
@@ -182,7 +197,8 @@ const ipGalleries = [
     "title": "服饰视觉表达",
     "kind": "衍生设计示例",
     "src": "assets/gallery/stan-s49-image112.webp",
-    "category": "product"
+    "category": "product",
+    "pricePending": true
   },
   {
     "id": "stan-s57-image150",
@@ -190,7 +206,8 @@ const ipGalleries = [
     "title": "The Stan Lee Story",
     "kind": "出版物资料",
     "src": "assets/gallery/stan-s57-image150.webp",
-    "category": "product"
+    "category": "product",
+    "pricePending": true
   },
   {
     "id": "molang-home",
@@ -279,7 +296,8 @@ const ipGalleries = [
         "src": "assets/gallery/avengers-set-assembled.webp",
         "title": "组装后的成品"
       }
-    ]
+    ],
+    "pricePending": true
   },
   {
     "id": "culture-bruce-0",
