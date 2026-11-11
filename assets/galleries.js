@@ -88,7 +88,9 @@ const ipGalleries = [
     "brand": "bruce",
     "title": "BRUCE LEE-M01 · 智能水杯",
     "kind": "产品展示",
-    "src": "assets/gallery/bruce-s3-image10.webp"
+    "src": "assets/gallery/bruce-s3-image10.webp",
+    "priceCny": 499,
+    "priceLabel": "水杯礼盒售价"
   },
   {
     "id": "bruce-s4-image16",
@@ -102,7 +104,9 @@ const ipGalleries = [
     "brand": "bruce",
     "title": "BRUCE LEE-G01 · 智能眼镜",
     "kind": "产品展示",
-    "src": "assets/gallery/bruce-s7-image27.webp"
+    "src": "assets/gallery/bruce-s7-image27.webp",
+    "priceCny": 799,
+    "priceLabel": "眼镜礼盒售价"
   },
   {
     "id": "bruce-s8-image32",
@@ -116,21 +120,29 @@ const ipGalleries = [
     "brand": "bruce",
     "title": "BRUCE LEE-EC1 · OWS 耳机",
     "kind": "产品展示",
-    "src": "assets/gallery/bruce-s14-image52.webp"
+    "src": "assets/gallery/bruce-s14-image52.webp",
+    "priceCny": 899,
+    "priceLabel": "内销售价",
+    "market": "domestic"
   },
   {
     "id": "bruce-s17-image63",
     "brand": "bruce",
     "title": "BRUCE LEE-EG1 · OWS 耳机",
     "kind": "产品展示",
-    "src": "assets/gallery/bruce-s17-image63.webp"
+    "src": "assets/gallery/bruce-s17-image63.webp",
+    "priceCny": 1399,
+    "priceLabel": "外销售价",
+    "market": "export"
   },
   {
     "id": "bruce-s20-image71",
     "brand": "bruce",
     "title": "BRUCE LEE-PG01 · 超薄充电宝",
     "kind": "产品展示",
-    "src": "assets/gallery/bruce-s20-image71.webp"
+    "src": "assets/gallery/bruce-s20-image71.webp",
+    "priceCny": 369,
+    "priceLabel": "售价"
   },
   {
     "id": "stan-s27-image35",

@@ -88,7 +88,9 @@ const ipGalleries = [
     "brand": "bruce",
     "title": "BRUCE LEE-M01 · Smart Tumbler",
     "kind": "Product showcase",
-    "src": "../assets/gallery/bruce-s3-image10.webp"
+    "src": "../assets/gallery/bruce-s3-image10.webp",
+    "priceCny": 499,
+    "priceLabel": "Cup gift set"
   },
   {
     "id": "bruce-s4-image16",
@@ -102,7 +104,9 @@ const ipGalleries = [
     "brand": "bruce",
     "title": "BRUCE LEE-G01 · Smart Glasses",
     "kind": "Product showcase",
-    "src": "../assets/gallery/bruce-s7-image27.webp"
+    "src": "../assets/gallery/bruce-s7-image27.webp",
+    "priceCny": 799,
+    "priceLabel": "Eyewear gift set"
   },
   {
     "id": "bruce-s8-image32",
@@ -116,21 +120,29 @@ const ipGalleries = [
     "brand": "bruce",
     "title": "BRUCE LEE-EC1 · OWS Earbuds",
     "kind": "Product showcase",
-    "src": "../assets/gallery/bruce-s14-image52.webp"
+    "src": "../assets/gallery/bruce-s14-image52.webp",
+    "priceCny": 899,
+    "priceLabel": "China market",
+    "market": "domestic"
   },
   {
     "id": "bruce-s17-image63",
     "brand": "bruce",
     "title": "BRUCE LEE-EG1 · OWS Earbuds",
     "kind": "Product showcase",
-    "src": "../assets/gallery/bruce-s17-image63.webp"
+    "src": "../assets/gallery/bruce-s17-image63.webp",
+    "priceCny": 1399,
+    "priceLabel": "Export market",
+    "market": "export"
   },
   {
     "id": "bruce-s20-image71",
     "brand": "bruce",
     "title": "BRUCE LEE-PG01 · Slim Power Bank",
     "kind": "Product showcase",
-    "src": "../assets/gallery/bruce-s20-image71.webp"
+    "src": "../assets/gallery/bruce-s20-image71.webp",
+    "priceCny": 369,
+    "priceLabel": "Retail price"
   },
   {
     "id": "stan-s27-image35",
