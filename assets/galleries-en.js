@@ -98,11 +98,12 @@ const ipGalleries = [
   {
     "id": "bruce-s3-image10",
     "brand": "bruce",
-    "title": "BRUCE LEE-M01 · Smart Tumbler",
+    "title": "Bruce Lee Smart Tumbler Gift Set",
     "kind": "Product showcase",
     "src": "../assets/gallery/bruce-s3-image10.webp",
     "priceCny": 499,
-    "priceLabel": "Cup gift set"
+    "priceLabel": "Cup gift set",
+    "detailUrl": "cup-gift-set.html"
   },
   {
     "id": "bruce-s4-image16",
@@ -110,7 +111,7 @@ const ipGalleries = [
     "title": "BRUCE LEE-PC01 · Power Bank (Cup Gift Set)",
     "kind": "Product showcase",
     "src": "../assets/gallery/bruce-s4-image16.webp",
-    "pricePending": true
+    "includedNote": "Included in the cup gift set. Not sold separately."
   },
   {
     "id": "bruce-s7-image27",
@@ -127,7 +128,7 @@ const ipGalleries = [
     "title": "BRUCE LEE-PC02 · Magnetic Power Bank (Eyewear Gift Set)",
     "kind": "Product showcase",
     "src": "../assets/gallery/bruce-s8-image32.webp",
-    "pricePending": true
+    "includedNote": "Included in the eyewear gift set. Not sold separately."
   },
   {
     "id": "bruce-s14-image52",

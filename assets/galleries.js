@@ -98,11 +98,12 @@ const ipGalleries = [
   {
     "id": "bruce-s3-image10",
     "brand": "bruce",
-    "title": "BRUCE LEE-M01 · 智能水杯",
+    "title": "李小龙智能水杯礼盒",
     "kind": "产品展示",
     "src": "assets/gallery/bruce-s3-image10.webp",
     "priceCny": 499,
-    "priceLabel": "水杯礼盒售价"
+    "priceLabel": "水杯礼盒售价",
+    "detailUrl": "cup-gift-set.html"
   },
   {
     "id": "bruce-s4-image16",
@@ -110,7 +111,7 @@ const ipGalleries = [
     "title": "BRUCE LEE-PC01 · 充电宝（水杯礼盒）",
     "kind": "产品展示",
     "src": "assets/gallery/bruce-s4-image16.webp",
-    "pricePending": true
+    "includedNote": "水杯礼盒内含配件，不单独售卖"
   },
   {
     "id": "bruce-s7-image27",
@@ -127,7 +128,7 @@ const ipGalleries = [
     "title": "BRUCE LEE-PC02 · 磁吸充电宝（眼镜礼盒）",
     "kind": "产品展示",
     "src": "assets/gallery/bruce-s8-image32.webp",
-    "pricePending": true
+    "includedNote": "眼镜礼盒内含配件，不单独售卖"
   },
   {
     "id": "bruce-s14-image52",

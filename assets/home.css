@@ -338,3 +338,6 @@ html[lang="en"] header nav{gap:15px}
 
 /* V12 pending prices */
 .product-price.is-pending>strong{font-size:13px;font-weight:500;color:#626e7d}.avengers-set-section>.product-price{max-width:330px;margin-top:24px}.detail-gallery>.product-price{max-width:330px;margin-bottom:24px}
+
+/* V13 gift set */
+.included-note{display:block;border-top:1px solid #dce1e7;margin-top:12px;padding-top:11px;color:#626e7d;font-size:11px;line-height:1.9}.product-detail-cta{display:block;margin-top:12px;color:#2251f5;font-size:11px}.cup-intro{padding-top:35px;padding-bottom:40px}.cup-intro>a{font-size:12px;color:#626e7d}.cup-intro .eyebrow{margin-top:30px}.cup-intro h1{font-size:clamp(28px,4vw,46px);line-height:1.4;margin:20px 0}.cup-intro>p:not(.eyebrow){font-size:14px;line-height:1.9;color:#626e7d;max-width:650px}.cup-set-price{display:block;font-size:28px;margin-top:20px}.cup-detail-images{width:min(750px,100%);margin:0 auto 55px}.cup-detail-images>img{display:block;width:100%;height:auto}.cup-product-page .contact-section{margin-top:45px}
